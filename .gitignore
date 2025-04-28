@@ -1,0 +1,10 @@
+# Build results
+bin/
+obj/
+publish/
+*.user
+*.suo
+*.userprefs
+.vs/
+packages/
+*.log
